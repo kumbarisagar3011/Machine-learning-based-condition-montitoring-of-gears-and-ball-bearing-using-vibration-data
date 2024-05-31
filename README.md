@@ -2,8 +2,8 @@
 This project aims to analyze the vibration data to detect the fault, broken tooth, or any defects in the ball bearing and gears.
 
 # Exploratory Data Anaylsis on vibration data
-** THe data is a simulation data  and the vibratio data is collected for a period of time**
-** The vibration data is collected over a period of time **
+* THe data is a simulation data  and the vibratio data is collected for a period of time
+*The vibration data is collected over a period of time **
 ** The data is simulated for different kinds of defects like broken tooth gear, fault in gears, healthy gears and misaligned gear**
 ** The ball bearing data is also simulated where there is defect in inner ball and defect in outer ball and outer case**
 ** The data is processed and checked if there are any null values**
