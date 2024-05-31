@@ -8,5 +8,6 @@ This project aims to analyze the vibration data to detect the fault, broken toot
 * The ball bearing data is also simulated where there is defect in inner ball and defect in outer ball and outer case**
 * The data is processed and checked if there are any null values**
 * since data is time dependent, it is time series data where vibration is measured with respect to time**
+# Building Models for classification
 * Time domain anaylsis is done for feature selection to train a machine learning algorithm**
 * Different ML algorithms cross-val score is measured to see the performance and best algorithm is choosen**
