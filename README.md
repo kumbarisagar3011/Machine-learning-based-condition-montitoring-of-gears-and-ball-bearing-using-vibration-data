@@ -9,5 +9,6 @@ This project aims to analyze the vibration data to detect the fault, broken toot
 * The data is processed and checked if there are any null values**
 * since data is time dependent, it is time series data where vibration is measured with respect to time**
 # Building Models for classification
-* Time domain anaylsis is done for feature selection to train a machine learning algorithm**
-* Different ML algorithms cross-val score is measured to see the performance and best algorithm is choosen**
+* Time domain anaylsis is done for feature selection to train a machine learning algorithm.
+* Employed PCA for reducing the computation in detecting the defects as this can save cost of machine.
+* Different ML algorithms cross-val score is measured to see the performance and best algorithm is choosen
